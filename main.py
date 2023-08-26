@@ -1,3 +1,4 @@
+"""Sample of simple RPG game."""
 from random import randint
 
 # Новый импорт.
